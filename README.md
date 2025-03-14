@@ -1,53 +1,47 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://t.me/v_any_key">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a> 
-  <a href="https://vk.com/id481333033">
-    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
-  </a>
-</div>
-<h1 align="center">
-  Привет!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300"/>
-</div>
+# 🚀 Frontend Developer  
 
-### :man_technologist: Обо мне :
+![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)  
+![VK Badge](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)  
 
----
+## 👋 Привет!  
 
-Я Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я **Разработчик** из России 🇷🇺  
 
-- :telescope: Я работаю во Frontend разработке, параллельно изучая и применяя Backend.
+### 👨‍💻 Обо мне:  
+- 🔥 Специализируюсь на **Frontend-разработке**, но активно осваиваю **Backend**  
+- 💡 Люблю **JavaScript** и его экосистему  
+- ⚡ Быстро нахожу и исправляю баги, оптимизирую код  
+- 🚀 Постоянно прокачиваю свои навыки и слежу за новыми технологиями  
 
-- :seedling: JavaScript мой любимый язык.
+### 📫 Связаться со мной:  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anikey_va)  
 
-- :zap: Я быстро и четко решаю поставленые задачи или возникшие ошибки.
+## 🛠 Стек технологий:  
+### ⚡ Основное  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-- :mailbox: Свяжитесь со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/v_any_key)
+### ⚙️ Backend & Базы данных  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
----
+### 🛠 Инструменты  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)  
 
-### :hammer_and_wrench: Languages and Tools :
+### 💡 Мои проекты:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+1. **React Finance App**
+
+**Описание:** Просто pet проект для ведения личных финансов и капитала.
+
+**Задача:** Вести учет всех транзакций, вести капитал, сортировать по категориям, вести аналитику.
+
+**Технологии:** JS, React, HTML, CSS, Vite
+
+**Просмотр:** https://react-finance-app.onrender.com/
