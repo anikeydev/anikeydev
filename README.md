@@ -1,6 +1,7 @@
 # 🚀 Frontend Developer  
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anikey_va)
+![Резюме на HH](https://hh.ru/assets/v2/resume/badge.svg)](https://hh.ru/resume/1075abd0ff0e90b2dc0039ed1f576c71425572)
 
 ## 👋 Привет!  
 
