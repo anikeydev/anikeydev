@@ -58,3 +58,11 @@
 **Технологии:** Node JS, node-telegram-bot-api, express.js, Api, Axios
 
 **GitHub:** https://github.com/anikeydev/searchEnergy-teleram-bot
+
+3. **ReactSeminarsApp**
+
+**Описание:** Простой проект, который показывает мои навыки рыботы с React и Node.js
+
+**Задача:** Запрос данных с сервера; Вывод списка семинаров на главной странице; Создание нового семинара; Удаление семинара; Редактирование семинара
+
+**Технологии:** Node.js, Express.js, React, react-hook-form, axios, bootstrap, vite
