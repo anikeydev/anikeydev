@@ -1,8 +1,8 @@
-# 🚀 Frontend Developer  
+# 🚀 Fullstack Developer on JS  
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anikey_va)
 
-### HH.ru - https://hh.ru/resume/1075abd0ff0e90b2dc0039ed1f576c71425572
+### HH.ru - https://hh.ru/resume/db2b3482ff0e9c978c0039ed1f517049786157
 
 ## 👋 Привет!  
 
@@ -24,11 +24,14 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux]
 
 ### ⚙️ Backend & Базы данных  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL]
+![RTK Query]
 
 ### 🛠 Инструменты  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
